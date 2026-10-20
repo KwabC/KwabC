@@ -1,10 +1,17 @@
 ###  What's Up, I'm Kwabena Cobbinah👋
 
-I am a senior with a passion for networking and cloud technology. Currently, I am studying for my CCNA and learning python. When I'm not studying, I'm drawing or listening to a new album.
+I am a student at the University of Cincinnati with a passion for networking and cloud.
 
----
+- 🔭 I'm currently working on **studying for my CCNA**
 
-### 💻 Tech Stack
+- 🌱 I'm currently learning **Networking/Python**
 
-- **Languages:** Python
-- **Tools/Databases:** Wireshark, VS Code
+- ⚡ Fun fact **I love to draw and listen to music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kcobbinah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kcobbinah" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
