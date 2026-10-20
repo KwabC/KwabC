@@ -1,4 +1,4 @@
-###  What's Up, I'm Kwabena Cobbinah👋
+#  What's Up, I'm Kwabena Cobbinah👋
 
 I am a student at the University of Cincinnati with a passion for networking and cloud.
 
@@ -6,7 +6,7 @@ I am a student at the University of Cincinnati with a passion for networking and
 
 - 🌱 I'm currently learning **Networking/Python**
 
-- ⚡ Fun fact **I love to draw and listen to music**
+- ⚡ In my free time **I love to draw and listen to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
