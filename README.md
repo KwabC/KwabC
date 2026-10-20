@@ -6,7 +6,7 @@ I am a student at the University of Cincinnati with a passion for networking and
 
 - 🌱 I'm currently learning **Networking/Python**
 
-- ⚡ In my free time **I love to draw and listen to music**
+- ⚡ In my free time **I love to draw/animate and listen to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
