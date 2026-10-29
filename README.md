@@ -1,6 +1,6 @@
-#  What's Up, I'm Kwabena Cobbinah👋
+#  Hello, I'm Kwabena Cobbinah👋
 
-I am a student at the University of Cincinnati with a passion for networking and cloud.
+I'm a digital media student at the University of Cincinnati with a passion for networking and cloud.
 
 Get to know me more:
 
